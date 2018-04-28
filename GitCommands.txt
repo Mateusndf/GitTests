@@ -1,2 +1,5 @@
 git clone <LINK>
 git status
+git push <REMOTO> <BRANCH>
+
+
